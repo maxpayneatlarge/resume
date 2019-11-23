@@ -1,9 +1,10 @@
 import React from 'react';
-import {Router} from '@reach/router';
-import './Resume.scss';
+import { Router } from '@reach/router';
 import Header from './components/Header';
-import Summary from './components/Summary';
+import ProfessionalExperience from './components/ProfessionalExperience';
 import ProgrammingExperience from './components/ProgrammingExperience';
+import Summary from './components/Summary';
+import './Resume.scss';
 
 export default function Resume() {
   return (
@@ -12,6 +13,7 @@ export default function Resume() {
       <Router>
         <Summary path='/' />
         <ProgrammingExperience path='experience' />
+        <ProfessionalExperience path='professional' />
       </Router>
     </div>
   );

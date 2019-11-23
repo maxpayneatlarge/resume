@@ -1,12 +1,13 @@
 import React from 'react';
-import './ProgrammingExperience.scss';
 import NavigationBar from './NavigationBar';
+import './ProgrammingExperience.scss';
 import data from '../data/programmingexperience.json';
+import SectionHeading from './SectionHeading';
 
 export default function ProgrammingExperience() {
     return(
         <div className='programming-experience'>
-            <h3 className='programming-experience__heading'>PROGRAMMING EXPERIENCE</h3>
+            <SectionHeading sectionTitle="PROGRAMMING EXPERIENCE" />
             {Object.keys(data).map((entry, index)=>{
                 return(
                     <div key={index} className='programming-experience__container'>
@@ -15,7 +16,9 @@ export default function ProgrammingExperience() {
                     </div>
                 );
             })}
-            <NavigationBar backButtonText='Back' backButtonHref='/' />
+            <NavigationBar backButtonText='Back' backButtonHref='/' 
+                nextButtonText='Professional Experience' nextButtonHref='/professional'
+            />
         </div>
     );
 };
