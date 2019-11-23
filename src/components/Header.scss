@@ -1,0 +1,16 @@
+@import '../standards.scss';
+
+.header {
+    color: $black;
+    margin: 0 0 50px 0;
+    text-align: center;
+    &__name {
+        font-size: $h1-size;
+        margin: 0 0 5px 0;
+    };
+    &__email {
+        font-size: $h2-size;
+        font-weight: normal;
+        margin: 5px 0 5px 0;
+    }
+}   

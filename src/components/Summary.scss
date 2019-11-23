@@ -1,0 +1,16 @@
+@import '../standards.scss';
+
+.summary {
+  text-align: left;
+  &__heading {
+    font-size: $h3-size;
+    line-height: 1.2em;
+    margin: 0;
+    text-decoration: underline;
+  }
+
+  &__text {
+    font-size: $normal-size;
+    margin: 5px 0 0 0;
+  }
+}

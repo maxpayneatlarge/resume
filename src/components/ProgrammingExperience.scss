@@ -1,0 +1,25 @@
+@import '../standards.scss';
+
+.programming-experience {
+  font-size: 10pt;
+  text-align: left;
+
+  &__container {
+      margin-top: 20px;
+  }
+
+  &__heading {
+    font-size: $h3-size;
+    line-height: 1.2em;
+    margin: 0;
+    text-decoration: underline;
+  }
+  &__section-label {
+    display: inline;
+    margin-right: 5px;
+  }
+
+  &__section {
+    display: inline;
+  }
+}

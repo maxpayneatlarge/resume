@@ -1,0 +1,54 @@
+@import '../standards.scss';
+
+.btn-forward {
+    align-items: center;
+    background: $blue;
+    color:#fff;
+    display:flex;
+    font-size:12px;
+    height: 30px;
+    justify-content: center;
+    margin-left: auto;
+    padding: 10px;
+    position:relative;
+    text-decoration:none;
+    width: $button-width;
+  }
+.btn-forward:after {
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid $blue;
+    border-top: 25px solid transparent;
+    content: "";
+    height: 0;
+    position: absolute;
+    right:-25px;
+    top:0px;
+    width: 0;
+}
+
+.btn-back {
+    align-items: center;
+    background: $blue;
+    color:#fff;
+    display:flex;
+    font-size:12px;
+    height: 30px;
+    justify-content: center;
+    margin-right: auto;
+    padding: 10px;
+    position:relative;
+    text-decoration:none;
+    width: $button-width;
+}
+
+.btn-back:before {
+    border-bottom: 25px solid transparent;
+    border-right: 25px solid $blue;
+    border-top: 25px solid transparent;
+    content: "";
+    height: 0;
+    left: -25px;
+    position: absolute;
+    top:0px;
+    width: 0;
+}
