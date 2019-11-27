@@ -1,0 +1,175 @@
+{
+    "employment" : [
+        {
+            "company":"The Container Store",
+            "dateRange":"7/2019-Present",
+            "title":"Applications Engineer",
+            "duties": [
+                {
+                    "description": "Develop new features and maintain legacy software for containerstore.com ecommerce site.",
+                    "subduties": [
+                        {
+                        "description": "Software developed using newest versions of ReactJS, utilizing Hooks with context for state management and SASS and styled components for styling.  Jest and Enzyme utilized for unit testing."
+                        },
+                        {
+                        "description": "Developed new in store appointment scheduler allowing giving our customers the ability to use a modern, responsive, ReactJS based application for scheduling in store closet design.  This new application replaced a legacy application that did not having mobile abilities."
+                        }
+                    ]
+                },
+                {
+                    "description": "Maintain legacy code, implementing new features with JSP and Java."
+                }
+            ]
+        },
+        {
+            "company":"Southwest Airlines",
+            "dateRange":"1/2019-7/2019",
+            "title":"Senior Front End Developer",
+            "duties": [
+                {
+                    "description": "Develop new, modern version of the southwest.com business site.",
+                    "subduties": [
+                        {
+                        "description": "Software is developed using ReactJS, Flux, JavaScript and SASS, with Karma and Chai used for unit testing."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "company":"Sabre",
+            "dateRange":"9/2018-12/2018",
+            "title":"Senior Front End Developer",
+            "duties": [
+                {
+                    "description": "Develop next generation voice agent software used by Sabre Hospitality customer service agents to check hotel availability and book reservations.",
+                    "subduties": [
+                        {
+                        "description": "Software is developed using ReactJS, Redux, JavaScript and Webpack, with Mocha, Jest and Puppeteer used for unit and automation testing."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "company":"TSI Services",
+            "dateRange":"6/2018 – 9/2018",
+            "title":"Front End Developer",
+            "duties": [
+                {
+                    "description": "Responsible for developing front end solutions to modern, responsive web applications for a US Department of Defense client.",
+                    "subduties": [
+                        {
+                        "description": "UI’s are developed using ReactJS, Redux, JavaScript, Webpack, Babel, Gulp, SASS, with Jest and Puppeteer for testing."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "company":"Fusion Alliance",
+            "dateRange":"10/2016 – 04/2018",
+            "title":"Full Stack Java Developer",
+            "duties": [
+                {
+                    "description": "Responsible for the development and building of features for a large insurance company’s website; Wrote new components to the website to display new policy and coverage information.",
+                    "subduties": [
+                        {
+                            "description": "UI’s were developed utilizing ReactJS, Redux, Webpack, Babel, with Jest and Intern for unit testing. Full stack developer: Primary languages/skills used are ReactJS, Redux, Java, Dojo, Dijit and JavaScript."
+                        },
+                        {
+                            "description": "Develop new product lines using ReactJS and Redux."
+                        },
+                        {
+                            "description": "Maintain and enhance legacy product using Dojo."
+                        },
+                        {
+                            "description": "Attend formal training, achieved SAFe 4 Certified Practitioner."
+                        }
+                    ]
+                },
+                {
+                    "description": "Responsible for maintaining and adding new enhancements to legacy application for an energy corporation’s customer facing website."
+                },
+                {
+                    "description": "Responsible for converting legacy application written in Java/Struts to new application with NodeJS and JavaScript."
+                }
+            ]
+        },
+        {
+            "company":"TTI Inc.",
+            "dateRange":"05/2014 – 10/2016",
+            "title":"Front End Java Developer",
+            "duties": [
+                {
+                    "description": "Responsible for the full lifecycle development of a customer order application. Duties included developing UI’s utilizing AngularJS, Javascript and back-end development utilizing Java and Spring MVC. Provide guidance on Java standards and uphold TTI Java standards to contracted developers through code review feedback.  The primary languages/skills used at TTI are AngularJS, JavaScript, Java, Bootstrap and Git.",
+                    "subduties": [
+                        {
+                            "description": "Java subject matter expert for company transition from mainframe system to Java/Oracle based system; maintained code/code libraries."
+                        },
+                        {
+                            "description": "Instrumental in making key architectural decisions to use AngularJS front end technologies and using RESTful services for the server side."
+                        },
+                        {
+                            "description": "Maintain legacy applications written in Java and Java Swing."
+                        },
+                        {
+                            "description": "Maintain code written in Spring MVC and Spring Boot with RESTful services as well as in AngularJS."
+                        },
+                        {
+                            "description": "Attended formal training in SpringMVC with RESTful services and AngularJS."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "company":"NCR Corp ",
+            "dateRange":"03/2000 – 05/2014",
+            "title":"Software Engineer II",
+            "duties": [
+                {
+                    "description": "Responsible for the full stack development for NCR’s Aloha Insight product.  Product scope involved collecting transactional data from restaurant POS systems into a consolidated database for reporting and replication to customer servers.  The Aloha Insight product also contains many applications for configuration of data as well as applications that allowed for viewing of data in various methods.",
+                    "subduties": [
+                        {
+                            "description": "Corrected reported issues, as well as implemented forward looking enhancements to this product using a variety of technologies.  The primary languages/skills used at NCR were Java, JavaScript, ExtJS, Struts and Microsoft Team Foundation Server."
+                        },
+                        {
+                            "description": "Played key role in development of our next generation dashboard.  Participated in guiding underlying technology as well as the interface design. Provided customers with a functional, innovative product that was well received, adding value to our product suite."
+                        },
+                        {
+                            "description": "Developed custom web applications, based on the requesting customer’s specifications.  My ability to work directly with the clients ensured that it was being developed to the customer’s satisfaction.  This gave the client the ability to link to our custom application from their website so that their customer base was able to view their loyalty card transactions and balances, within seconds of the actual transactions."
+                        },
+                        {
+                            "description": "Strong in multiple languages, allowing me to develop multiple areas of a project, including user interface, middle tier code, as well as the SQL database back end."
+                        },
+                        {
+                            "description": "Effective in both team based and self-managed projects using either agile or waterfall development methodologies."
+                        },
+                        {
+                            "description": "Extensive experience providing high quality, customer facing solutions using Java, JavaScript and JSP.  This includes converting legacy ASP applications to newer JSP standards."
+                        },
+                        {
+                            "description": "Effective at developing prototype solutions with minimal requirements and guidance."
+                        },
+                        {
+                            "description": "Write technical design documentation for new development projects in JSP and Java."
+                        },
+                        {
+                            "description": "Document development procedures and ensure these procedures are followed by members of the development team.  This has been instrumental in helping our organization pass SAS 70 audits that have been performed."
+                        },
+                        {
+                            "description": "Administer requests for change from our customers and support staff.  Document and monitor each request from discovery, through development and into production."
+                        },
+                        {
+                            "description": "Maintain documentation on development changes to assist customer service/support staff."
+                        },
+                        {
+                            "description": "Helped our support organization by providing technical guidance or by working directly with our customers as we have strived to meet customer expectations."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

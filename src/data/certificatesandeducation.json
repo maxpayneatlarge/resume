@@ -1,0 +1,24 @@
+{
+    "certifications": [
+         {
+             "certificationEntry": "Sun Certified Java Programmer, 5.0 Edition"
+         },
+         {
+            "certificationEntry": "SAFe 4 Certified Practitioner"
+         }
+    ],
+    "education": [
+        {
+            "educationEntry": "Continuing Education, Tarrant County Community College - Java, Web Programming, and Visual Basic .NET"
+        },
+        {
+            "educationEntry": "Continuing Education, Dallas County Community College - LAN Administration and Networking."
+        },
+        {
+            "educationEntry": "Delta State University; Cleveland, Mississippi - Bachelor of Science in Chemistry with minor in biology."
+        },
+        {
+            "educationEntry": "Mississippi Delta Community College; Moorhead, Mississippi - Associate in Arts degree"
+        }
+    ]
+}

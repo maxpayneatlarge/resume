@@ -1,6 +1,7 @@
 import React from 'react';
 import { Router } from '@reach/router';
 import Header from './components/Header';
+import CertificationAndEducation from './components/CertificationAndEducation';
 import ProfessionalExperience from './components/ProfessionalExperience';
 import ProgrammingExperience from './components/ProgrammingExperience';
 import Summary from './components/Summary';
@@ -14,6 +15,7 @@ export default function Resume() {
         <Summary path='/' />
         <ProgrammingExperience path='experience' />
         <ProfessionalExperience path='professional' />
+        <CertificationAndEducation path='education' />
       </Router>
     </div>
   );
