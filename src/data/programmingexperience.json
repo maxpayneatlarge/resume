@@ -1,6 +1,6 @@
 {
     "Languages": "JavaScript, Java, JSP, Java Struts, HTML/DHTML, CSS, JSON, jQuery, JSTL, XML, JSF/RichFaces, SASS",
     "Libraries and Frameworks": "ReactJS, NodeJS, AngularJS, Dojo/Dijit, Bootstrap, ExtJS, REST / SOAP, Struts, Java Servlets, Spring MVC, Spring Boot",
-    "Development and Testing Tools": "NetBeans, WebStorm, Eclipse/STS, VSCode, Intellij, IBM WebSphere, Git, Subversion/Tortoise SVN, Karma/Jasmine, Jest, Mocha, Chai, Enzyme, Puppeteer, Intern, Jenkins, Nexus Repository, JBoss Application Server, Microsoft Team Foundation Server, Junit",
+    "Development and Testing Tools": "NetBeans, WebStorm, Eclipse/STS, VSCode, Intellij, IBM WebSphere, Git, Subversion/Tortoise SVN, Karma/Jasmine, Jest, Mocha, Chai, Enzyme, Sinon, Puppeteer, Intern, Jenkins, Nexus Repository, JBoss Application Server, Microsoft Team Foundation Server, Junit",
     "Databases and Miscellaneous": "MS SQL, MySQL, Agile SDLC, AJAX"
 }
